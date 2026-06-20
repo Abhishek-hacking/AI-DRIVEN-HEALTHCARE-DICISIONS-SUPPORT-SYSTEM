@@ -14,6 +14,9 @@ Default API URL:
 
 Optional:
    Set HEALTHCARE_API_URL if your API runs on another address.
+<<<<<<< HEAD
 
 Default local LLM model:
    tinydolphin
+=======
+>>>>>>> 9fb6855cc6471edcc676afee6beb8546cf93f5e6
