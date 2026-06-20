@@ -1,0 +1,86 @@
+[
+  {
+    "doctor_name": "Dr. Michael Chen",
+    "specialty": "Pediatrician",
+    "location": "San Francisco, CA",
+    "consultation_fee": "$120",
+    "preferred_date": "2026-04-08",
+    "preferred_time": "09:00 AM",
+    "consultation_type": "Video Call",
+    "reason": "",
+    "status": "confirmed",
+    "created_at": "2026-04-07T21:35:02"
+  },
+  {
+    "doctor_name": "Dr. Emily Rodriguez",
+    "specialty": "Dermatologist",
+    "location": "Los Angeles, CA",
+    "consultation_fee": "$130",
+    "preferred_date": "2026-04-07",
+    "preferred_time": "09:00 AM",
+    "consultation_type": "Video Call",
+    "reason": "",
+    "status": "confirmed",
+    "created_at": "2026-04-07T21:43:00"
+  },
+  {
+    "doctor_name": "Dr. Robert Kim",
+    "specialty": "Orthopedic",
+    "location": "Austin, TX",
+    "consultation_fee": "$140",
+    "preferred_date": "2026-04-07",
+    "preferred_time": "09:00 AM",
+    "consultation_type": "Video Call",
+    "reason": "",
+    "status": "confirmed",
+    "created_at": "2026-04-07T21:43:21"
+  },
+  {
+    "doctor_name": "Dr. Michael Chen",
+    "specialty": "Pediatrician",
+    "location": "San Francisco, CA",
+    "consultation_fee": "$120",
+    "preferred_date": "2026-04-07",
+    "preferred_time": "09:00 AM",
+    "consultation_type": "Video Call",
+    "reason": "",
+    "status": "confirmed",
+    "created_at": "2026-04-07T21:50:10"
+  },
+  {
+    "doctor_name": "Dr. Michael Chen",
+    "specialty": "Pediatrician",
+    "location": "San Francisco, CA",
+    "consultation_fee": "$120",
+    "preferred_date": "2026-04-07",
+    "preferred_time": "09:00 AM",
+    "consultation_type": "Video Call",
+    "reason": "",
+    "status": "confirmed",
+    "created_at": "2026-04-07T22:21:30"
+  },
+  {
+    "doctor_name": "Dr. Priya Nair",
+    "specialty": "Neurologist",
+    "location": "Seattle, WA",
+    "consultation_fee": "$180",
+    "preferred_date": "2026-04-10",
+    "preferred_time": "04:30 PM",
+    "consultation_type": "Phone Consultation",
+    "reason": "",
+    "status": "confirmed",
+    "created_at": "2026-04-07T22:22:55"
+  },
+  {
+    "doctor_name": "Dr. Robert Kim",
+    "specialty": "Orthopedic",
+    "location": "Austin, TX",
+    "consultation_fee": "$140",
+    "preferred_date": "2026-04-07",
+    "preferred_time": "09:00 AM",
+    "consultation_type": "Video Call",
+    "reason": "",
+    "status": "confirmed",
+    "created_at": "2026-04-07T23:00:15"
+  }
+]
